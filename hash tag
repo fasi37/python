@@ -1,0 +1,31 @@
+<h1> 		This is the largest heading 
+<p> 		This tag allows you to create paragraphs 
+<address> 	Describes an address information 	 
+<applet> 	Embedding an applet in HTML document REMOVE
+<area> 	        Defines an area in an image map 	 
+<b> 	        Specific text weight bold 	 
+<base> 	        Define a base URL for all the links with in a web page
+<del> 	        Defines text that has been deleted from a document
+<img> 	        Defines an image
+<thead> 	Groups the header content in a table
+<!DOCTYPE html>
+<html>
+<title>HTML Tutorial</title>
+<body>
+<h1>This is a heading</h1>
+<p>This is a paragraph</p1>
+</body>
+</html> 
+ <table>
+  <caption>Monthly savings</caption>
+  <tr>
+    <th>Month</th>
+    <th>Savings</th>
+  </tr>
+  <tr>
+    <td>January</td>
+    <td>$100</td>
+  </tr>
+</table> 
+<q>Build a future where people live in harmony with nature.</q> 
+<textarea id="w3review" name="w3review" rows="4" cols="50">
