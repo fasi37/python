@@ -1,0 +1,1 @@
+['hello everyone\n','how are you\n','nice day\n','what about your day\n','iamfaseela\n','Studying MCA at ICET\n','it is located in mulavoor\n','i completed graduation\n',i completed UG as BCA\n','i have a sweet and cute fami ly']
